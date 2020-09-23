@@ -1,0 +1,6 @@
+D:\СУ\AI\HW7\K-means\K-means\bin\Debug\K-means.exe.config
+D:\СУ\AI\HW7\K-means\K-means\bin\Debug\K-means.exe
+D:\СУ\AI\HW7\K-means\K-means\bin\Debug\K-means.pdb
+D:\СУ\AI\HW7\K-means\K-means\obj\Debug\K-means.csprojAssemblyReference.cache
+D:\СУ\AI\HW7\K-means\K-means\obj\Debug\K-means.exe
+D:\СУ\AI\HW7\K-means\K-means\obj\Debug\K-means.pdb

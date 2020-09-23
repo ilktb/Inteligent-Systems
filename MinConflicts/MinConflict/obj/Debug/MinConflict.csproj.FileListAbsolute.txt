@@ -1,0 +1,6 @@
+D:\СУ\AI\HW2\MinConflict\MinConflict\bin\Debug\MinConflict.exe.config
+D:\СУ\AI\HW2\MinConflict\MinConflict\bin\Debug\MinConflict.exe
+D:\СУ\AI\HW2\MinConflict\MinConflict\bin\Debug\MinConflict.pdb
+D:\СУ\AI\HW2\MinConflict\MinConflict\obj\Debug\MinConflict.csprojAssemblyReference.cache
+D:\СУ\AI\HW2\MinConflict\MinConflict\obj\Debug\MinConflict.exe
+D:\СУ\AI\HW2\MinConflict\MinConflict\obj\Debug\MinConflict.pdb
